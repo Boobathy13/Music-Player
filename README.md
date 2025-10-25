@@ -113,4 +113,4 @@ This project is open-source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 **Boobathy R**
-📧 [hungrylearner2002@gmail.com](mailto:hungrylearner2002@gmail.com)
+📧 [Mail ID](mailto:hungrylearner2002@gmail.com)
